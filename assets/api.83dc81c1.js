@@ -1,0 +1,1 @@
+const o=async t=>await fetch(`https://restcountries.com/v2/regionalbloc/${t.toLowerCase()}`).then(e=>e.json()),s=async t=>await fetch(`https://restcountries.com/v2/alpha/${t.toLowerCase()}`).then(e=>e.json());export{s as a,o as g};
