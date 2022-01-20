@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [visite site](https://your-live-site-url.com)
+- Live Site URL: [visite site](https://zakaria-lagouader.github.io/REST-Countries-API-with-color-theme-switcher)
 
 ## My process
 
